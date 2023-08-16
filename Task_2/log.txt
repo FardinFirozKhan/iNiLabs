@@ -1,0 +1,3 @@
+[2023-08-16 10:05:57] This is a log message to the file.
+[2023-08-16 10:06:24] This is a log message to the file.
+[2023-08-16 10:07:28] This is a log message to the file.
